@@ -1,7 +1,8 @@
 ### 属性动画
 &emsp;&emsp;比较常用的几个动画类是：ValueAnimator、ObjectAnimator和AnimatorSet，其中ObjectAnimator继承自ValueAnimator，AnimatorSet是动画集，可以定义一组动画。使用起来也是及其简单的，下面举个小栗子。
 
-栗子：实现的稍微复杂点的动画，先上效果图
+栗子效果如下：
+
 ![](https://upload-images.jianshu.io/upload_images/12972541-bd9aa4d4438a4c2f.gif?imageMogr2/auto-orient/strip)
 
 
